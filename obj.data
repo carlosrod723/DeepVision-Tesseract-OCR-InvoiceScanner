@@ -1,0 +1,5 @@
+classes= 3
+train= /content/drive/My Drive/YOLO_OCR_InvoiceScanner/train.txt
+valid= /content/drive/My Drive/YOLO_OCR_InvoiceScanner/test.txt
+names= /content/drive/My Drive/YOLO_OCR_InvoiceScanner/obj.names
+backup= /content/drive/My Drive/YOLO_OCR_InvoiceScanner/backup/

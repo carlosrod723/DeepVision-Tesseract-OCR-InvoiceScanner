@@ -1,0 +1,11 @@
+train: /content/drive/My Drive/YOLO_OCR_InvoiceScanner/train.txt
+val: /content/drive/My Drive/YOLO_OCR_InvoiceScanner/test.txt
+
+# Number of classes
+nc: 3
+
+# Class names
+names:
+  - 'invoice_number'  
+  - 'total_amount'
+  - 'billing_date'
