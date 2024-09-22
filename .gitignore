@@ -1,0 +1,6 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore the Anaconda installer file
+Anaconda3-2023.07-1-MacOSX-x86_64.sh
+
