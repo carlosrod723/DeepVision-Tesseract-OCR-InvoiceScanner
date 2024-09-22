@@ -1,6 +1,10 @@
-# Ignore the virtual environment folder
+# Ignore virtual environment
 venv/
 
-# Ignore the Anaconda installer file
+# Ignore system files
+.DS_Store
+
+# Ignore large setup files
 Anaconda3-2023.07-1-MacOSX-x86_64.sh
+
 
